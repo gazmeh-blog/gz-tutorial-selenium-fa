@@ -88,10 +88,10 @@
 
 ## معماری چارچوب Selenium WebDriver
 معماری وب درایور از چهار جزء اصلی تشکیل شده است:
-### 1: کتابخانه کلاینت سلنیوم
-### 2: پروتکل JSON wire بر روی بستر کلاینت  HTTP
-### 3: درایور مرورگرها
-### 4:مرورگرها
+### 1. کتابخانه کلاینت سلنیوم
+### 2. پروتکل JSON wire بر روی بستر کلاینت  HTTP
+### 3. درایور مرورگرها
+### 4. مرورگرها
 
 ![Webdriver Architecture](./resources/webdriver-architecture.png?raw=true "Webdriver Architecture")
 
